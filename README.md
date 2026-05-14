@@ -2,7 +2,7 @@
 - Consultant (2025-present)
 - Honorary Fellow, Waisman Center, University of Wisconsin-Madison (2022-present)
 - Advanced Research Engineer, Research Lab, MED-EL Corporation (2025)
-- Research Engineer, Research Lab, MED-EL Corporation (2025-present)
+- Research Engineer, Research Lab, MED-EL Corporation (2022-2025)
 - Research Assistant, Binaural Hearing and Speech Lab, University of Wisconsin-Madison (2018-2022)
 
 # Education
