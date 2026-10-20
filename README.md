@@ -1,4 +1,5 @@
 # Positions
+- Lecturer, Music Technology, North Carolina State University (2026-present)
 - Consultant (2025-present)
 - Honorary Fellow, Waisman Center, University of Wisconsin-Madison (2022-present)
 - Advanced Research Engineer, Research Lab, MED-EL Corporation (2025)
